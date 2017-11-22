@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/forum/forumMessage/forumMessage",
     "pages/home/index/index",
     "pages/me/sureDorm/sureDorm",
     "pages/home/dorm/voucher",
@@ -41,7 +42,6 @@
     "pages/me/reply/reply",
     "pages/home/news/news",
     "pages/home/bg/bg",
-    "pages/forum/forumMessage/forumMessage",
     "pages/home/money/money",
     "pages/me/myClass/myLeader",
     "pages/me/my_QR_code/my_QR_code",
